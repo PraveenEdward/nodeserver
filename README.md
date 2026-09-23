@@ -29,7 +29,7 @@ npm -v
 
 ## Set Environment
 ```
-cd Nodejs_dataentry
+cd nodeserver
 sudo npm install express mysql2 dotenv
 ```
 
